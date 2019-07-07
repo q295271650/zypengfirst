@@ -5,5 +5,5 @@ public class Hello{
      }
      int a = 1;
      int d = 5;
-     int c = 4；
+     int c = 4;
 }
