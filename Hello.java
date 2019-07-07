@@ -4,5 +4,6 @@ public class Hello{
           System.out.println("Hello Java");
      }
      int a = 1;
+     int d = 5;
      int c = 4；
 }
